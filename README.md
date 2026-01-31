@@ -15,4 +15,7 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@geooeg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdevo6264@gmail.com)
 
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohappytoday&layout=compact&langs_count=6&hide=html,css)
+
 </div>
