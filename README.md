@@ -15,7 +15,7 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@geooeg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdevo6264@gmail.com)
 
-## Languages
+## Commit Languages
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohappytoday&theme=github)
 
 
