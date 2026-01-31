@@ -16,6 +16,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdevo6264@gmail.com)
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohappytoday&theme=github)
+
 
 </div>
