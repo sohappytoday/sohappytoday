@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=160&section=header&text=Geo's%20Github%20&fontSize=32&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:9BE15D,100:00E3AE&height=160&section=header&text=Geo's%20Github&fontSize=32&fontColor=ffffff)
   
 ## ⚙️ Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
