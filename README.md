@@ -1,6 +1,13 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:9BE15D,100:00E3AE&height=160&section=header&text=Geo's%20Github&fontSize=32&fontColor=ffffff)
+
+## 🏅 Certifications
+
+<a href="https://www.credly.com/badges/44a13551-3b73-41e3-ba6e-109b955b1d9b/public_url">
+  <img src="CREDLY_BADGE_IMAGE_URL" width="130" alt="AWS Certified Solutions Architect - Associate"/>
+</a>
+
   
 ## ⚙️ Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
