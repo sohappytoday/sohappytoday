@@ -15,10 +15,12 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/SQLD-SQL%20Developer-4479A1?style=for-the-badge"
-    alt="SQLD"
-  />
+  <a href="./SQLD자격증_김지오.pdf">
+    <img
+      src="https://img.shields.io/badge/SQLD-SQL%20Developer-4479A1?style=for-the-badge"
+      alt="SQLD"
+    />
+  </a>
 </p>
 
 ## ⚙️ Skills
