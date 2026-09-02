@@ -4,9 +4,15 @@
 
 ## 🏅 Certifications
 
-[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/44a13551-3b73-41e3-ba6e-109b955b1d9b/public_url)
-
-이렇게 하면:
+<p align="center">
+  <a href="https://www.credly.com/badges/44a13551-3b73-41e3-ba6e-109b955b1d9b/public_url">
+    <img
+      src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+      width="150"
+      alt="AWS Certified Solutions Architect - Associate"
+    />
+  </a>
+</p>
   
 ## ⚙️ Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
