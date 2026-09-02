@@ -8,7 +8,7 @@
   <a href="https://www.credly.com/badges/44a13551-3b73-41e3-ba6e-109b955b1d9b/public_url">
     <img
       src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
-      width="150"
+      width="120"
       alt="AWS Certified Solutions Architect - Associate"
     />
   </a>
