@@ -4,9 +4,11 @@
 
 ## 🏅 Certifications
 
-<a href="https://www.credly.com/badges/44a13551-3b73-41e3-ba6e-109b955b1d9b/public_url">
-  <img src="CREDLY_BADGE_IMAGE_URL" width="130" alt="AWS Certified Solutions Architect - Associate"/>
-</a>
+<div data-iframe-width="150" data-iframe-height="270"
+     data-share-badge-id="44a13551-3b73-41e3-ba6e-109b955b1d9b"
+     data-share-badge-host="https://www.credly.com">
+</div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
   
 ## ⚙️ Skills
