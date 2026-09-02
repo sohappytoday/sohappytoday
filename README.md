@@ -33,8 +33,8 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
 
 ## 🤖 AI Tools
-![GPT&Codex](https://img.shields.io/badge/GPT%20%26%20Codex-74AA9C?style=for-the-badge&logo=chatgpt&logoColor=white)
-![Claude code](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GPT & Codex](https://img.shields.io/badge/GPT%20%26%20Codex-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## 🖥 OS
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
